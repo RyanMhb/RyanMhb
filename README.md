@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mihoub Abderrahmene Rayene.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web front end development.
-- 💞️ I’m looking to collaborate on any projects regrading web development.
+- 💞️ I’m looking to collaborate on any projects regarding web development.
 - 📫 How to reach me on Telegram, my username is:RayeneMhb
